@@ -44,6 +44,9 @@ export default defineConfig({
       use: { ...devices['Desktop Firefox'] },
     },
 /*
+
+
+git add .
     {
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
