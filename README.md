@@ -8,9 +8,9 @@ The project includes **positive, negative test cases** to validate that the appl
 
 
 * **Testing Framework =** Playwright
-* **Language:** JavaScript / TypeScript
-* **Test Type:** End-to-End UI Automation
-* **Target Application:** SwiftTranslator (Singlish → Sinhala)
+* **Language =** TypeScript
+* **Test Type =** End-to-End UI Automation
+* **Target Application =** SwiftTranslator (Singlish → Sinhala)
 
 Step 1 - (check whether the following are installed on your machine)
 
@@ -26,7 +26,7 @@ npm -v
 git --version
 ```
 
-Step 2- Install Dependencies ( Install all required dependencies using npm )
+Step 2- Install Dependencies ( Install all required dependencies using npm)
 
 ```bash
 npm install
@@ -58,16 +58,15 @@ The test suite includes:
 
 * **Positive Test Cases** – Valid Singlish inputs
 * **Negative Test Cases** – Empty, invalid, and unexpected inputs
-* **Edge Cases** – Long text, special characters, mixed casing
 
 These tests ensure the correctness, robustness, and stability of the translation feature.
 
 
-**Thewni Mahathantri**
+**Thewni Mahathanthri**
 
 * Tests are written for academic and demonstration purposes.
 
--------
+--------
 ## How to Clone the Project
  Step 1- 
 
